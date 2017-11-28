@@ -1,0 +1,10 @@
+{
+  "name": "react-test",
+  "version": "0.2.2",
+  "engines": {
+    "node": ">= 8.4.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
